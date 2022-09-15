@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(24, 106, 237, 0.912);
+}
+
+.centrar {
+  text-align: center;
+}
+
+img {
+  width: 2em;
+  height: 2em;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 5em;
+  font-weight: 2000;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h2 {
+  font-size: 4em;
+}
+
+p {
+  font-size: 1.5em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.btn {
+  display: inline;
+  flex-wrap: wrap;
+
+  margin-bottom: 1em;
+}
